@@ -1,0 +1,29 @@
+.content {
+	/*margin-top: 4em;
+	width: 21em;
+	height: 34em;
+	margin-left: 4em;
+	position: relative;*/
+	background-color: #FFF;
+	color: black;
+	border-radius: 15px;
+}
+.header {
+	height: 5em;
+}
+.success {
+	border-bottom: 1px solid green;
+
+}
+.btn-submit {
+	border-radius: 8px;
+}
+ .input-field input {
+	background-color: white;
+} 
+body {
+	background-color: #81908F;
+}
+.error {
+	 color: red;
+}
